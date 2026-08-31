@@ -641,7 +641,7 @@ function renderHistoryTable() {
   if (history.length === 0) {
     tbody.innerHTML = `
       <tr>
-        <td colspan="8" style="text-align: center; color: var(--text-dim); padding: 1.5rem;">
+        <td colspan="7" style="text-align: center; color: var(--text-dim); padding: 1.5rem;">
           No hay mediciones guardadas aún.
         </td>
       </tr>
@@ -664,7 +664,6 @@ function renderHistoryTable() {
         <td>${formatSpanishNumber(item.waterCond, 4)}</td>
         <td>${formatSpanishNumber(item.netCond, 4)}</td>
         <td><strong style="color: #34d399;">${formatSpanishNumber(item.concentration, 6)}</strong></td>
-        <td style="color: var(--text-muted); font-size: 0.8rem;">${item.formula}</td>
       </tr>
     `;
   }).join('');

@@ -20,19 +20,9 @@ export const CHEMICAL_DATA = [
     fds: 'docs/Fichas Seguridad Gute/FDS_GUT-FORTE_ES.pdf'
   },
   { 
-    id: 'gute-g-forte-s', brand: 'gute', brandName: 'Gute', name: 'G-FORTE-S', code: 'I-202-S', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: 'docs/Fichas Técnicas Gute/GUT-FORTE-S.pdf',
-    fds: 'docs/Fichas Seguridad Gute/FDS_GUT-FORTE S_ES.pdf'
-  },
-  { 
     id: 'gute-g-clorbox', brand: 'gute', brandName: 'Gute', name: 'G-CLORBOX', code: 'I-211', m: 0.1663, c: 0.0416, traceable: true,
     ft: 'docs/Fichas Técnicas Gute/GUT-CLORBOX.pdf',
     fds: 'docs/Fichas Seguridad Gute/i1156_8896.pdf'
-  },
-  { 
-    id: 'gute-g-optibacter', brand: 'gute', brandName: 'Gute', name: 'G-OPTIBACTER', code: 'I-240-A', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: 'docs/Fichas Técnicas Gute/GUT-OPTIBACTER.pdf',
-    fds: 'docs/Fichas Seguridad Gute/FDS_GUT-OPTIBACTER_ES.pdf'
   },
   { 
     id: 'gute-g-tins', brand: 'gute', brandName: 'Gute', name: 'G-TINS', code: 'I-306', m: 0.0045, c: 0.3655, traceable: true,
@@ -40,19 +30,9 @@ export const CHEMICAL_DATA = [
     fds: 'docs/Fichas Seguridad Gute/FDS_GUT-TINS_ES.pdf'
   },
   { 
-    id: 'gute-g-tins-hd', brand: 'gute', brandName: 'Gute', name: 'G-TINS HD', code: 'I-306-HD', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: null,
-    fds: null
-  },
-  { 
     id: 'gute-g-desalcalis', brand: 'gute', brandName: 'Gute', name: 'G-DESALCALIS', code: 'I-308-A', m: 0.0491, c: -0.3285, traceable: true,
     ft: 'docs/Fichas Técnicas Gute/GUT-DESALCALIS.pdf',
     fds: 'docs/Fichas Seguridad Gute/FDS_GUT-DESALCALIS_ES.pdf'
-  },
-  { 
-    id: 'gute-g-desalcalis-s', brand: 'gute', brandName: 'Gute', name: 'G-DESALCALIS-S', code: 'I-308-S', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: 'docs/Fichas Técnicas Gute/GUT-DESALCALIS-S.pdf',
-    fds: 'docs/Fichas Seguridad Gute/FDS_GUT-DESALCALIS-S_ES.pdf'
   },
   { 
     id: 'gute-g-clorfoam', brand: 'gute', brandName: 'Gute', name: 'G-CLORFOAM', code: 'I-311-A', m: 0.3384, c: -0.0533, traceable: true,
@@ -104,11 +84,6 @@ export const CHEMICAL_DATA = [
     ft: 'docs/Fichas Técnicas Gute/GUT-ACID-PLUS.pdf',
     fds: 'docs/Fichas Seguridad Gute/FDS_GUT-ACID PLUS_ES.PDF'
   },
-  { 
-    id: 'gute-g-acid-lt', brand: 'gute', brandName: 'Gute', name: 'G-ACID LT', code: 'I-611-LT', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: null,
-    fds: null
-  },
 
   // ==========================================
   // MARCA: IBERKLIN
@@ -119,19 +94,9 @@ export const CHEMICAL_DATA = [
     fds: 'docs/Fichas Seguridad Iberklin/I-202-A.pdf'
   },
   { 
-    id: 'iberklin-i-202-s', brand: 'iberklin', brandName: 'Iberklin', name: 'I-202-S', code: 'G-FORTE-S', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: 'docs/Fichas Técnicas Iberklin/I-209.pdf',
-    fds: 'docs/Fichas Seguridad Iberklin/I-209.pdf'
-  },
-  { 
     id: 'iberklin-i-211-a', brand: 'iberklin', brandName: 'Iberklin', name: 'I-211-A', code: 'G-CLORBOX', m: 0.1663, c: 0.0416, traceable: true,
     ft: 'docs/Fichas Técnicas Iberklin/I-211-A.pdf',
     fds: 'docs/Fichas Seguridad Iberklin/I-211-A.pdf'
-  },
-  { 
-    id: 'iberklin-i-240-a', brand: 'iberklin', brandName: 'Iberklin', name: 'I-240-A', code: 'G-OPTIBACTER', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: 'docs/Fichas Técnicas Iberklin/I-240-A.pdf',
-    fds: 'docs/Fichas Seguridad Iberklin/I-240-A.pdf'
   },
   { 
     id: 'iberklin-i-306-a', brand: 'iberklin', brandName: 'Iberklin', name: 'I-306-A', code: 'G-TINS', m: 0.0045, c: 0.3655, traceable: true,
@@ -139,19 +104,9 @@ export const CHEMICAL_DATA = [
     fds: 'docs/Fichas Seguridad Iberklin/I-306-A.pdf'
   },
   { 
-    id: 'iberklin-i-306-hd', brand: 'iberklin', brandName: 'Iberklin', name: 'I-306-HD', code: 'G-TINS HD', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: null,
-    fds: null
-  },
-  { 
     id: 'iberklin-i-308-a', brand: 'iberklin', brandName: 'Iberklin', name: 'I-308-A', code: 'G-DESALCALIS', m: 0.0491, c: -0.3285, traceable: true,
     ft: 'docs/Fichas Técnicas Iberklin/I-308-A.pdf',
     fds: 'docs/Fichas Seguridad Iberklin/I-308-A.pdf'
-  },
-  { 
-    id: 'iberklin-i-308-s', brand: 'iberklin', brandName: 'Iberklin', name: 'I-308-S', code: 'G-DESALCALIS-S', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: null,
-    fds: null
   },
   { 
     id: 'iberklin-i-311-a', brand: 'iberklin', brandName: 'Iberklin', name: 'I-311-A', code: 'G-CLORFOAM', m: 0.3384, c: -0.0533, traceable: true,
@@ -202,11 +157,6 @@ export const CHEMICAL_DATA = [
     id: 'iberklin-i-611-g', brand: 'iberklin', brandName: 'Iberklin', name: 'I-611-G', code: 'G-ACID PLUS', m: 0.2535, c: -0.4996, traceable: true,
     ft: 'docs/Fichas Técnicas Iberklin/I-611-G.pdf',
     fds: 'docs/Fichas Seguridad Iberklin/I-611-G.pdf'
-  },
-  { 
-    id: 'iberklin-i-611-lt', brand: 'iberklin', brandName: 'Iberklin', name: 'I-611-LT', code: 'G-ACID LT', m: null, c: null, traceable: false, note: 'CARECE DE TRAZABILIDAD METROLÓGICA',
-    ft: null,
-    fds: null
   }
 ];
 

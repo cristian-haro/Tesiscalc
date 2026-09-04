@@ -9,13 +9,9 @@
 | Nombre Comercial | Ref. Técnica | Fórmula de Calibración | Estado Metrológico |
 | :--- | :--- | :--- | :--- |
 | **G-FORTE** | I-202-A | $y = 0,0546x - 0,1998$ | ✅ Trazable |
-| **G-FORTE-S** | I-202-S | *N/A* | ⚠️ CARECE DE TRAZABILIDAD METROLÓGICA |
 | **G-CLORBOX** | I-211 | $y = 0,1663x + 0,0416$ | ✅ Trazable |
-| **G-OPTIBACTER** | I-240-A | *N/A* | ⚠️ CARECE DE TRAZABILIDAD METROLÓGICA |
 | **G-TINS** | I-306 | $y = 0,0045x + 0,3655$ | ✅ Trazable |
-| **G-TINS HD** | I-306-HD | *N/A* | ⚠️ CARECE DE TRAZABILIDAD METROLÓGICA |
-| **G-DESALCALIS** | I308-A | $y = 0,0491x - 0,3285$ | ✅ Trazable |
-| **G-DESALCALIS-S** | I-308-S | *N/A* | ⚠️ CARECE DE TRAZABILIDAD METROLÓGICA |
+| **G-DESALCALIS** | I-308-A | $y = 0,0491x - 0,3285$ | ✅ Trazable |
 | **G-CLORFOAM** | I-311-A | $y = 0,3384x - 0,0533$ | ✅ Trazable |
 | **G-FOAM** | I312-A | $y = 0,7707x + 0,04$ | ✅ Trazable |
 | **G-ENERGYFOAM** | I-313 | $y = 0,2786x - 0,0314$ | ✅ Trazable |
@@ -26,7 +22,6 @@
 | **G-ALCAFER** | I-602-G | $y = 0,1229x + 0,0318$ | ✅ Trazable |
 | **G-ACID** | I-610-G | $y = 0,063x - 0,0203$ | ✅ Trazable |
 | **G-ACID PLUS** | I-611-G | $y = 0,2535x - 0,4996$ | ✅ Trazable |
-| **G-ACID LT** | I-611-LT | *N/A* | ⚠️ CARECE DE TRAZABILIDAD METROLÓGICA |
 
 ---
 

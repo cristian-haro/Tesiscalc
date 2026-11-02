@@ -154,6 +154,11 @@ export const CHEMICAL_DATA = [
     fds: 'docs/Fichas Seguridad Iberklin/I-610-G.pdf'
   },
   { 
+    id: 'iberklin-i-610-ng', brand: 'iberklin', brandName: 'Iberklin', name: 'I-610-NG', code: 'I-610-NG', m: 0.0625, c: 0.0421, traceable: true,
+    ft: 'docs/Fichas Técnicas Iberklin/I-610-NG.pdf',
+    fds: 'docs/Fichas Seguridad Iberklin/I-610-NG.pdf'
+  },
+  { 
     id: 'iberklin-i-611-g', brand: 'iberklin', brandName: 'Iberklin', name: 'I-611-G', code: 'G-ACID PLUS', m: 0.2535, c: -0.4996, traceable: true,
     ft: 'docs/Fichas Técnicas Iberklin/I-611-G.pdf',
     fds: 'docs/Fichas Seguridad Iberklin/I-611-G.pdf'

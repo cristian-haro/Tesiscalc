@@ -21,6 +21,7 @@
 | **G-CLOR PLUS** | I-601-G | $y = 0,164x - 0,0374$ | ✅ Trazable |
 | **G-ALCAFER** | I-602-G | $y = 0,1229x + 0,0318$ | ✅ Trazable |
 | **G-ACID** | I-610-G | $y = 0,063x - 0,0203$ | ✅ Trazable |
+| **I-610-NG** | I-610-NG | $y = 0,0625x + 0,0421$ | ✅ Trazable |
 | **G-ACID PLUS** | I-611-G | $y = 0,2535x - 0,4996$ | ✅ Trazable |
 
 ---
